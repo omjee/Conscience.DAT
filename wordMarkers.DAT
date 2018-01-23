@@ -1,0 +1,3 @@
+#emotions (thought), and action (IO) markers
+tell (action:voice:text,emotion:neutral),
+call (action:voice,emotion:neutral)
