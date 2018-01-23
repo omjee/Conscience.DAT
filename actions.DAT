@@ -1,0 +1,5 @@
+#input/output actions to from devices attached to computer/robot.
+voice, 
+video, 
+write, 
+other
